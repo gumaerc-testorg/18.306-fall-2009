@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: MATLAB Resources
 uid: 0299c261-c392-24a0-07d8-59f7126367a9
 ---

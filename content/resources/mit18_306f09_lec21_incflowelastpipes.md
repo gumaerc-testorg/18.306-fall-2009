@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture notes on incompressible, inviscid, fluid flow in a narrow cylindrical
   pipe with elastic thin walls, derivation of the governing equations, and linearized
   governing equations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-306-advanced-partial-differential-equations-with-applications-fall-2009/833cb82e0f1f9d473cb8cc355063e7c3_MIT18_306f09_lec21_IncFlowElastPipes.pdf
+file: /media/courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/833cb82e0f1f9d473cb8cc355063e7c3_MIT18_306f09_lec21_IncFlowElastPipes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Incompressible, inviscid, fluid flow in a narrow cyllindirical pipe with elastic
   thin walls

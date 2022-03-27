@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bfc0bab0-da28-f90c-6556-69b5f33eae57
 resourcetype: Document
 title: Conservation Laws in Continuum Modeling
 uid: e76a8190-4983-5036-f771-d58afde47d46

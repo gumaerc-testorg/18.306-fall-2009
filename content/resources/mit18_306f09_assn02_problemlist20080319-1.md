@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b08cf3d4-ab9d-51cc-a0aa-6749d0d40b9b
 resourcetype: Document
 title: 18.306 Problem List
 uid: 8ac11ffd-5411-cc10-ceba-668fc93d2814

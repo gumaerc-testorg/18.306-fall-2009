@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bfc0bab0-da28-f90c-6556-69b5f33eae57
 resourcetype: Document
 title: 'Weakly Nonlinear Things: Oscillators'
 uid: c72230b6-1d17-fb02-7b79-54a0598d3982

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bfc0bab0-da28-f90c-6556-69b5f33eae57
 resourcetype: Document
 title: "Simplest Car Following Tra\x0Ec Flow Model"
 uid: 1e6a824d-45c1-44ce-cd4c-0154ea3006a0

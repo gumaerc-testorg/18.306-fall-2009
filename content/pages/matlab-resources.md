@@ -1,15 +1,20 @@
 ---
 content_type: page
+description: This section provides links to MATLAB resources at MIT and elsewhere.
 learning_resource_types: []
 ocw_type: CourseSection
 title: MATLAB Resources
 uid: 0299c261-c392-24a0-07d8-59f7126367a9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 MATLAB® Resources at MIT
 ------------------------
 
-[Introduction to MATLAB](/resources/res-18-002-introduction-to-matlab-spring-2008/index.htm), class materials that were developed by Yossi Farjoun of the MIT Department of Mathematics for a non-credit program during MIT's Independent Activities Period.  A collection of additional MATLAB resources are also linked from this web site, including teaching codes and tutorials.
+[Introduction to MATLAB](/courses/res-18-002-introduction-to-matlab-spring-2008), class materials that were developed by Yossi Farjoun of the MIT Department of Mathematics for a non-credit program during MIT's Independent Activities Period.  A collection of additional MATLAB resources are also linked from this web site, including teaching codes and tutorials.
 
 MATLAB® Resources Elsewhere
 ---------------------------

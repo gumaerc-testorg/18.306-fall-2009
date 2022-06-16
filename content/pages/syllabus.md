@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section briefly mentions course descriptions, prerequisites, outline,
+  textbooks, grading criteria, exama and assignment details, along with MATLAB resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 8c955ba0-0e48-7259-d8d6-c4c74625d798
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -37,7 +43,7 @@ This is just to give you an idea of the flavor. Some things may be covered in mo
 Textbook
 --------
 
-There is no required textbook for this course. A list of a few recommended textbooks can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+There is no required textbook for this course. A list of a few recommended textbooks can be found in the {{% resource_link 48e7e0f9-3924-e1dd-a20a-36cb0c05efc7 "Readings" %}} section.
 
 Exams and Assignments
 ---------------------
@@ -86,4 +92,4 @@ Problem sets
 MATLAB®
 -------
 
-I strongly urge you to become proficient in MATLAB® It is a very useful tool, and I may use it from time to time to illustrate points in the course. In addition, the problem sets may require some computations, easily done if you know MATLAB. See the [Related Resources]({{< baseurl >}}/pages/matlab-resources) section for more information about MATLAB.
+I strongly urge you to become proficient in MATLAB® It is a very useful tool, and I may use it from time to time to illustrate points in the course. In addition, the problem sets may require some computations, easily done if you know MATLAB. See the {{% resource_link 0299c261-c392-24a0-07d8-59f7126367a9 "Related Resources" %}} section for more information about MATLAB.

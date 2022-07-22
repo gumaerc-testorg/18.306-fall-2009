@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section includes a list of a few recommended textbooks for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 48e7e0f9-3924-e1dd-a20a-36cb0c05efc7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 There is no required textbook for this course. A list of a few recommended textbooks can be found below.

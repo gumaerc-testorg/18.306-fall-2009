@@ -7,6 +7,7 @@ file: /courses/18-306-advanced-partial-differential-equations-with-applications-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on incompressible, inviscid, fluid flow in a narrow cylindrical pipe with elastic thin walls, derivation of the governing equations, and linearized governing equations.
-

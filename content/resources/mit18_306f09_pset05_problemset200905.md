@@ -6,6 +6,7 @@ file: /courses/18-306-advanced-partial-differential-equations-with-applications-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on wave equations, slow compression in 1-D gas dynamics, simple linearization, and homogenization.
-

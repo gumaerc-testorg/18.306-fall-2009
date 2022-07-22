@@ -8,6 +8,7 @@ file: /courses/18-306-advanced-partial-differential-equations-with-applications-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on how conservation principles are used to obtain (phenomenological) continuum models for physical phenomena. The general principles are presented, with examples from traffic flow, river flows, granular flows, gas dynamics, and diusion
-

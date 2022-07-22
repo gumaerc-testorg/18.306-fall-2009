@@ -7,6 +7,7 @@ file: /courses/18-306-advanced-partial-differential-equations-with-applications-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on how continuum models can be derived from special limits of discrete models, wave equations from mass-spring systems, torsion coupled pendulums, and the sine-Gordon equation.
-

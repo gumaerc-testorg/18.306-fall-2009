@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on the sine-Gordon equation and breather expansion.
 file: /courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/e810aedb8a4d44723c115af83b6c90ff_MIT18_306f09_lec28_Breathers.pdf
+file_size: 234542
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

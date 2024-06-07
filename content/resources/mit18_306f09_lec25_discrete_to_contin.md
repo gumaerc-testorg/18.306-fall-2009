@@ -4,6 +4,7 @@ description: Lecture notes on how continuum models can be derived from special l
   of discrete models, wave equations from mass-spring systems, torsion coupled pendulums,
   and the sine-Gordon equation.
 file: /courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/0356741cb05f4800faa412e2d9bc4b84_MIT18_306f09_lec25_Discrete_to_Contin.pdf
+file_size: 293409
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

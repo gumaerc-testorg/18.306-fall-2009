@@ -5,6 +5,7 @@ description: "Lecture notes on how conservation principles are used to obtain (p
   \ with examples from traffic flow, river flows, granular flows, gas dynamics, and\
   \ di\vusion"
 file: /courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/e76a819049835036f771d58afde47d46_MIT18_306f09_lec23_Conservation_Laws.pdf
+file_size: 267516
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

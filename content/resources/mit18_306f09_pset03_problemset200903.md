@@ -4,6 +4,7 @@ description: Problem set on linear 1st order partial differential equations, Rie
   problems, Rankine Hugoniot conditions for shocks with point sources, and the KdV-Burgers
   equation.
 file: /courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/3d8c65961b776c7c822b0a65d7343161_MIT18_306f09_pset03_ProblemSet200903.pdf
+file_size: 290091
 file_type: application/pdf
 learning_resource_types:
 - Assignments

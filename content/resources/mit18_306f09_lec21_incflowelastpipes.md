@@ -4,6 +4,7 @@ description: Lecture notes on incompressible, inviscid, fluid flow in a narrow c
   pipe with elastic thin walls, derivation of the governing equations, and linearized
   governing equations.
 file: /courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/833cb82e0f1f9d473cb8cc355063e7c3_MIT18_306f09_lec21_IncFlowElastPipes.pdf
+file_size: 193709
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

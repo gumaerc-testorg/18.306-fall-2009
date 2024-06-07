@@ -3,6 +3,7 @@ content_type: resource
 description: A list of problems on partial differential equations that may be assigned
   in problem sets or exams.
 file: /courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/8ac11ffd5411cc10ceba668fc93d2814_MIT18_306f09_assn02_ProblemList20080319.pdf
+file_size: 742170
 file_type: application/pdf
 learning_resource_types:
 - Exams

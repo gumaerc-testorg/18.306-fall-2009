@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on partial differential equations.
 file: /courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/6cb1590540e740721e3adcbd38074945_MIT18_306f09_pset01_ProblemSet200901.pdf
+file_size: 24912
 file_type: application/pdf
 learning_resource_types:
 - Assignments

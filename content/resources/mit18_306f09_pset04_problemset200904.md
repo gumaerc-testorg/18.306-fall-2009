@@ -3,7 +3,7 @@ content_type: resource
 description: Problem set on the eikonal equation, caustics and wave fronts, the front
   curvature propagation along a ray, and an example of a singularity along a ray for
   the eikonal.
-file: /courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/d1c7f9f33be4a6caa608facd2bb59111_MIT18_306f09_pset04_ProblemSet200904.pdf
+file: /ol-ocw-studio-app/courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/d1c7f9f33be4a6caa608facd2bb59111_MIT18_306f09_pset04_ProblemSet200904.pdf
 file_size: 154644
 file_type: application/pdf
 learning_resource_types:

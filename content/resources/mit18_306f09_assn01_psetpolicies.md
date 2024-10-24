@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Policies on homework assignments and exams for the course.
-file: /courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/ed56296190961b123224a0ad087b74d2_MIT18_306f09_assn01_PSetPolicies.pdf
+file: /ol-ocw-studio-app/courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/ed56296190961b123224a0ad087b74d2_MIT18_306f09_assn01_PSetPolicies.pdf
 file_size: 26353
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on the Poincar\xE9\u2013Lindstedt method and the two-timing,\
   \ multiple scales method."
-file: /ol-ocw-studio-app/courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/c72230b61d17fb027b7954a0598d3982_MIT18_306f09_lec26_weaklyNLoscilators.pdf
+file: /courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/c72230b61d17fb027b7954a0598d3982_MIT18_306f09_lec26_weaklyNLoscilators.pdf
 file_size: 315735
 file_type: application/pdf
 learning_resource_types:

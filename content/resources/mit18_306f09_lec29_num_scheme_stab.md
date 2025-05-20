@@ -3,7 +3,7 @@ content_type: resource
 description: "Lecture notes on how naive numerical approximations to partial differential\
   \ equations may not work as expected, von Neumann stability analysis, and arti\f\
   cial viscosity."
-file: /ol-ocw-studio-app/courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/0177f1f3a5f5642edbc5a5ef7692ca80_MIT18_306f09_lec29_Num_Scheme_Stab.pdf
+file: /courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/0177f1f3a5f5642edbc5a5ef7692ca80_MIT18_306f09_lec29_Num_Scheme_Stab.pdf
 file_size: 356531
 file_type: application/pdf
 learning_resource_types:

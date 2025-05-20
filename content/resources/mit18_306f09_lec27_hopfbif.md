@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Hopf bifurcation for second order scalar equations.
-file: /ol-ocw-studio-app/courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/a39c94f847aef9900b1c798ac6a9bf1b_MIT18_306f09_lec27_HopfBif.pdf
+file: /courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/a39c94f847aef9900b1c798ac6a9bf1b_MIT18_306f09_lec27_HopfBif.pdf
 file_size: 249046
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on branch points and branch cuts.
-file: /courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/c6fd518576b2bfb575fddaa8a3e5c221_MIT18_306f09_lec22_Branch_Points_B_Cuts.pdf
+file: /ol-ocw-studio-app/courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/c6fd518576b2bfb575fddaa8a3e5c221_MIT18_306f09_lec22_Branch_Points_B_Cuts.pdf
 file_size: 240839
 file_type: application/pdf
 learning_resource_types:

@@ -19,10 +19,10 @@ MATLAB® Resources at MIT
 MATLAB® Resources Elsewhere
 ---------------------------
 
-[MATLAB demos](http://www.mathworks.com/products/demos/) by Mathworks
+{{% resource_link "61eebed1-e46f-429f-ad2b-479010ca9f22" "MATLAB demos" %}} by Mathworks
 
-[MATLAB Primer](http://www.math.ucsd.edu/~bdriver/21d-s99/matlab-primer.html): A tutorial by Dr. Kermit Sigmon, Department of Mathematics, at the University of Florida
+{{% resource_link "5ae3d5e1-270d-4f68-aff7-40f073b04a56" "MATLAB Primer" %}}: A tutorial by Dr. Kermit Sigmon, Department of Mathematics, at the University of Florida
 
-[MATLAB](http://www.indiana.edu/~statmath/math/matlab/) resources at Indiana University
+{{% resource_link "394fee6e-e9d1-4f99-a41b-283151b91c24" "MATLAB" %}} resources at Indiana University
 
-[A Practical Introduction to MATLAB](http://www.math.mtu.edu/~msgocken/intro/intro.html) by Mark S. Gockenbach, Department of Mathematical Sciences, at Michigan Technological University. These notes are a good starting point. The section on "Simple calculations and graphs" is particularly appropriate for help in getting started.
+{{% resource_link "4869a586-e45c-4834-81fe-39117c693603" "A Practical Introduction to MATLAB" %}} by Mark S. Gockenbach, Department of Mathematical Sciences, at Michigan Technological University. These notes are a good starting point. The section on "Simple calculations and graphs" is particularly appropriate for help in getting started.
